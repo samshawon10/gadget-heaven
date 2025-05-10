@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { AiOutlineClose } from 'react-icons/ai';
 import { useLocation, useNavigate } from 'react-router-dom';
+import groupImg from '../assets/group.png';
 
 const Dashboard = () => {
 
@@ -153,10 +154,8 @@ const Dashboard = () => {
         <div className="fixed inset-0 z-50 flex items-center justify-center pointer-events-none">
           <div className="bg-white shadow-xl rounded-2xl p-6 w-[90%] max-w-sm text-center pointer-events-auto">
             <div className="flex justify-center mb-4">
-              <div className="bg-green-100 rounded-full p-3">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-green-600" viewBox="0 0 20 20" fill="currentColor">
-                  <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-7.25 7.25a1 1 0 01-1.414 0l-3.25-3.25a1 1 0 011.414-1.414L8.5 11.086l6.543-6.543a1 1 0 011.414 0z" clipRule="evenodd" />
-                </svg>
+              <div >
+                <img src={groupImg} alt="" className="w-auto h-auto" />
               </div>
             </div>
             <h2 className="text-lg font-bold mb-1">Payment Successfully</h2>
