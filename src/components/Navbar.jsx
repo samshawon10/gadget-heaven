@@ -23,23 +23,48 @@ const Navbar = () => {
 
   const handleCloseMenu = () => setMenuOpen(false);
 
+  const isActive = (path) => location.pathname === path;
+
   return (
-    <div className="relative ">
-      <div className="bg-purple-700  text-white rounded-b-[32px] relative z-10 border-0 shadow-none">
+    <div className="relative">
+      <div className="bg-purple-700 text-white rounded-b-[32px] relative z-10 border-0 shadow-none">
         {/* Navbar */}
-        <nav className=" px-6 py-4 flex items-center justify-between">
+        <nav className="px-6 py-4 flex items-center justify-between">
           <div className="text-lg font-bold">Gadget Heaven</div>
 
           {/* Desktop Menu */}
           <ul className="hidden md:flex space-x-6 font-medium">
-            <li className="hover:underline">
-              <Link to="/">Home</Link>
+            <li>
+              <Link
+                to="/"
+                className={`hover:underline ${isActive('/') ? 'text-yellow-400 font-semibold underline' : ''}`}
+              >
+                Home
+              </Link>
             </li>
-            <li className="hover:underline">
-              <Link to="/statistics">Statistics</Link>
+            <li>
+              <Link
+                to="/statistics"
+                className={`hover:underline ${isActive('/statistics') ? 'text-yellow-400 font-semibold underline' : ''}`}
+              >
+                Statistics
+              </Link>
             </li>
-            <li className="hover:underline">
-              <Link to="/dashboard/cart">Dashboard</Link>
+            <li>
+              <Link
+                to="/dashboard/cart"
+                className={`hover:underline ${isActive('/dashboard/cart') ? 'text-yellow-400 font-semibold underline' : ''}`}
+              >
+                Dashboard
+              </Link>
+            </li>
+            <li>
+              <Link
+                to="/support"
+                className={`hover:underline ${isActive('/support') ? 'text-yellow-400 font-semibold underline' : ''}`}
+              >
+                Support
+              </Link>
             </li>
           </ul>
 
@@ -60,25 +85,47 @@ const Navbar = () => {
           </div>
         </nav>
 
-        {location.pathname === '/' &&  <Banner  data={currentBanner} />}
+        {/* Banner (only on Home) */}
+        {location.pathname === '/' && <Banner data={currentBanner} />}
       </div>
 
       {/* Mobile Menu */}
       {menuOpen && (
         <ul className="absolute top-20 right-4 mt-2 w-40 bg-white text-purple-700 rounded-lg shadow-md p-4 space-y-2 font-medium md:hidden z-50">
           <li>
-            <Link to="/" onClick={handleCloseMenu} className="hover:text-purple-900 block">
+            <Link
+              to="/"
+              onClick={handleCloseMenu}
+              className={`block hover:text-purple-900 ${isActive('/') ? 'text-yellow-500 font-semibold' : ''}`}
+            >
               Home
             </Link>
           </li>
           <li>
-            <Link to="/statistics" onClick={handleCloseMenu} className="hover:text-purple-900 block">
+            <Link
+              to="/statistics"
+              onClick={handleCloseMenu}
+              className={`block hover:text-purple-900 ${isActive('/statistics') ? 'text-yellow-500 font-semibold' : ''}`}
+            >
               Statistics
             </Link>
           </li>
           <li>
-            <Link to="/dashboard/cart" onClick={handleCloseMenu} className="hover:text-purple-900 block">
+            <Link
+              to="/dashboard/cart"
+              onClick={handleCloseMenu}
+              className={`block hover:text-purple-900 ${isActive('/dashboard/cart') ? 'text-yellow-500 font-semibold' : ''}`}
+            >
               Dashboard
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="/support"
+              onClick={handleCloseMenu}
+              className={`block hover:text-purple-900 ${isActive('/support') ? 'text-yellow-500 font-semibold' : ''}`}
+            >
+              Support
             </Link>
           </li>
         </ul>

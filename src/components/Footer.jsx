@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-gradient-to-r from-purple-500 to-indigo-500 text-white py-12 border-t border-gray-200">
+    <footer className="bg-gradient-to-r from-purple-500 to-indigo-500 text-white py-12 rounded-t-4xl border-t border-gray-200">
       <div className="max-w-screen-xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center text-white">Gadget Heaven</h2>
         <p className="text-center text-sm text-white mt-2 max-w-2xl mx-auto">

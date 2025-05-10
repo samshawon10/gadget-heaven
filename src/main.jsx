@@ -16,6 +16,7 @@ import ProductDetails from './ProductDetails/ProductDetails';
 import Dashboard from './Dashboard/Dashboard';
 import Statistics from './Statistics/Statistics';
 import { Toaster } from 'react-hot-toast';
+import Support from './NewPart/Support';
 
 
 
@@ -63,6 +64,11 @@ const router = createBrowserRouter([
         path: "/statistics",
         element: <Statistics></Statistics>,
        
+      },
+      {
+        path: "/support",
+        element: <Support></Support>,
+
       },
 
 
