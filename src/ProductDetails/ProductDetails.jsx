@@ -90,13 +90,13 @@ const ProductDetails = () => {
 
       <div className="max-w-7xl mx-auto p-6 grid grid-cols-1 md:grid-cols-2 gap-10 items-start bg-white rounded-2xl shadow-lg mt-10">
    
-        <div className="bg-gray-200 p-6 rounded-xl flex justify-center items-center">
-          <img
-            src={product_image}
-            alt={product_title}
-            className="h-80 object-contain"
-          />
-        </div>
+       <div className="bg-gradient-to-br from-gray-100 to-gray-200 p-6 rounded-xl flex justify-center items-center shadow-sm hover:shadow-md transition-shadow duration-300">
+        <img
+          src={product_image}
+          alt={product_title}
+          className="h-80 object-contain rounded-lg transition-transform duration-500 hover:scale-105"
+        />
+      </div>
 
      
         <div className="space-y-5">

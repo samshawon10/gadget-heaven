@@ -2,7 +2,7 @@
   {
     "product_id": "P001",
     "product_title": "Wireless Noise-Cancelling Headphones",
-    "product_image": "https://example.com/images/headphones.jpg",
+    "product_image": "https://i.ibb.co.com/Q3pzTc7x/Headphone.jpg",
     "category": "Accessories",
     "price": 149.99,
     "description": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
@@ -15,7 +15,7 @@
   {
     "product_id": "P002",
     "product_title": "Electric Kettle - 1.7L Stainless Steel",
-    "product_image": "https://example.com/images/kettle.jpg",
+    "product_image": "https://i.ibb.co.com/twWvRVpY/kettle.jpg",
     "category": "Home Appliances",
     "price": 39.95,
     "description": "Quick boil electric kettle with auto shut-off and LED indicator.",
@@ -28,7 +28,7 @@
   {
     "product_id": "P003",
     "product_title": "Ergonomic Office Chair",
-    "product_image": "https://example.com/images/chair.jpg",
+    "product_image": "https://i.ibb.co.com/QvbFq1W6/office-Chair.jpg",
     "category": "Furniture",
     "price": 219.99,
     "description": "Adjustable office chair with lumbar support and breathable mesh back.",
@@ -41,7 +41,7 @@
   {
     "product_id": "P004",
     "product_title": "MacBook Pro 14-inch",
-    "product_image": "https://example.com/images/macbook-pro.jpg",
+    "product_image": "https://i.ibb.co.com/BVNtntms/Mac-Book-Pro-14.webp",
     "category": "Laptops",
     "price": 2499.99,
     "description": "Powerful 14-inch MacBook Pro with M2 Pro chip and 16GB RAM.",
@@ -54,7 +54,7 @@
   {
     "product_id": "P005",
     "product_title": "iPhone 14 Pro Max",
-    "product_image": "https://example.com/images/iphone-14-pro-max.jpg",
+    "product_image": "https://i.ibb.co.com/vFfmsLs/i-Phone-14-Pro.jpg",
     "category": "Phones",
     "price": 1199.99,
     "description": "Latest iPhone 14 Pro Max with 48MP camera and A16 Bionic chip.",
@@ -67,7 +67,7 @@
   {
     "product_id": "P006",
     "product_title": "Smart Watch Series 8",
-    "product_image": "https://example.com/images/smartwatch8.jpg",
+    "product_image": "https://i.ibb.co.com/bgTwPdDV/Smartwatch-Series-8.jpg",
     "category": "Smart Watches",
     "price": 399.99,
     "description": "Advanced smart watch with health tracking and GPS.",
@@ -81,7 +81,7 @@
     {
       "product_id": "P007",
       "product_title": "Gaming Laptop - 15.6 inch",
-      "product_image": "https://example.com/images/gaming-laptop.jpg",
+      "product_image": "https://i.ibb.co.com/qYdGBvcj/gaming-laptop.jpg",
       "category": "Laptops",
       "price": 1299.99,
       "description": "High-performance gaming laptop with Intel i7 and RTX 3060.",
@@ -94,7 +94,7 @@
     {
       "product_id": "P008",
       "product_title": "MacBook Air M2 - 13 inch",
-      "product_image": "https://example.com/images/macbook-air.jpg",
+      "product_image": "https://i.ibb.co.com/5xj5j5pw/Mac-Book-Air-M2.jpg",
       "category": "MacBook",
       "price": 1099.99,
       "description": "MacBook Air with M2 chip, 8GB RAM, and 256GB SSD.",
@@ -107,7 +107,7 @@
     {
       "product_id": "P009",
       "product_title": "iPhone 14 - 128GB",
-      "product_image": "https://example.com/images/iphone-14.jpg",
+      "product_image": "https://i.ibb.co.com/xST83fsB/iphone-14.jpg",
       "category": "iPhone",
       "price": 999.99,
       "description": "iPhone 14 with A16 Bionic chip and 48MP camera.",
@@ -120,7 +120,7 @@
     {
       "product_id": "P010",
       "product_title": "Wireless Earbuds - Noise Cancelling",
-      "product_image": "https://example.com/images/earbuds.jpg",
+      "product_image": "https://i.ibb.co.com/yFMgTFdg/Wireless-Earbuds.png",
       "category": "Accessories",
       "price": 79.99,
       "description": "True wireless earbuds with ANC and 24-hour battery life.",
@@ -133,7 +133,7 @@
     {
       "product_id": "P011",
       "product_title": "Smart Watch Series 9",
-      "product_image": "https://example.com/images/smartwatch9.jpg",
+      "product_image": "https://i.ibb.co.com/NdrWP0g3/hk9-pro-smart.png",
       "category": "Smart Watches",
       "price": 449.99,
       "description": "Latest smartwatch with advanced health tracking and GPS.",
@@ -146,7 +146,7 @@
     {
       "product_id": "P012",
       "product_title": "Laptop Cooling Pad - RGB",
-      "product_image": "https://example.com/images/cooling-pad.jpg",
+      "product_image": "https://i.ibb.co.com/Vczp5nLq/coolingpad.webp",
       "category": "Accessories",
       "price": 29.99,
       "description": "RGB cooling pad for laptops up to 17 inches with dual fans.",
@@ -159,7 +159,7 @@
     {
       "product_id": "P013",
       "product_title": "iPhone 14 Pro - 256GB",
-      "product_image": "https://example.com/images/iphone-14-pro.jpg",
+      "product_image": "https://i.ibb.co.com/FLqf0vCm/apple-iphone-14-pro-gold-image.webp",
       "category": "iPhone",
       "price": 1299.99,
       "description": "iPhone 14 Pro with A16 Bionic chip and ProMotion display.",
@@ -172,7 +172,7 @@
     {
       "product_id": "P014",
       "product_title": "USB-C Hub - 7-in-1",
-      "product_image": "https://example.com/images/usb-hub.jpg",
+      "product_image": "https://i.ibb.co.com/4nwzDYZP/wiwu-cyber-hub-7-in-1.webp",
       "category": "Accessories",
       "price": 39.99,
       "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader.",
@@ -185,7 +185,7 @@
     {
       "product_id": "P015",
       "product_title": "Fitness Smart Watch - Waterproof",
-      "product_image": "https://example.com/images/fitness-watch.jpg",
+      "product_image": "https://i.ibb.co.com/hFL6FWc0/Waterproof-Fitness-Trackers-Fit-Bit-Inspire-3.jpg",
       "category": "Smart Watches",
       "price": 69.99,
       "description": "Waterproof fitness tracker with heart rate monitor and step counter.",
@@ -198,7 +198,7 @@
     {
       "product_id": "P016",
       "product_title": "15-inch Laptop - Core i5",
-      "product_image": "https://example.com/images/basic-laptop.jpg",
+      "product_image": "https://i.ibb.co.com/W4yp6JnC/Lenovo-Idea-Pad-Slim-3-15-IRH8-Core-i5.jpg",
       "category": "Laptops",
       "price": 699.99,
       "description": "15-inch laptop with Intel Core i5, 8GB RAM, and 256GB SSD.",
@@ -211,7 +211,7 @@
     {
       "product_id": "P017",
       "product_title": "Bluetooth Speaker - Portable",
-      "product_image": "https://example.com/images/bluetooth-speaker.jpg",
+      "product_image": "https://i.ibb.co.com/F4dhpMzF/boat-stone-750-portable-bluetooth-speaker-1.webp",
       "category": "Accessories",
       "price": 49.99,
       "description": "Portable Bluetooth speaker with 10-hour battery life and deep bass.",
@@ -224,7 +224,7 @@
     {
       "product_id": "P018",
       "product_title": "iPhone 13 - 128GB",
-      "product_image": "https://example.com/images/iphone-13.jpg",
+      "product_image": "https://i.ibb.co.com/cKgkW0c0/iphone-13-128gb-starlight.jpg",
       "category": "iPhone",
       "price": 899.99,
       "description": "iPhone 13 with A15 Bionic chip and dual camera system.",
@@ -237,7 +237,7 @@
     {
       "product_id": "P019",
       "product_title": "Wireless Charging Pad",
-      "product_image": "https://example.com/images/charging-pad.jpg",
+      "product_image": "https://i.ibb.co.com/vvLHQyVz/charging-pad.jpg",
       "category": "Accessories",
       "price": 24.99,
       "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
@@ -250,7 +250,7 @@
     {
       "product_id": "P020",
       "product_title": "Apple Watch Series 8",
-      "product_image": "https://example.com/images/apple-watch.jpg",
+      "product_image": "https://i.ibb.co.com/pr0TnPfD/Apple-Watch-Series-8-GPS-45mm-Starlight-Aluminum-Case-Starlight-Sport-Band-M-L-Fitness-Tracker-Blood.webp",
       "category": "Smart Watches",
       "price": 399.99,
       "description": "Apple Watch Series 8 with blood oxygen sensor and GPS.",
@@ -263,7 +263,7 @@
     {
       "product_id": "P021",
       "product_title": "Samsung Galaxy S23 Ultra",
-      "product_image": "https://example.com/images/galaxy-s23-ultra.jpg",
+      "product_image": "https://i.ibb.co.com/rKkdy8Qk/Galaxy-S23-Ultra-Lavender-Custom-Mac-BD.webp",
       "category": "Phones",
       "price": 1199.99,
       "description": "Flagship phone with Snapdragon 8 Gen 2 and 108MP camera.",
@@ -276,7 +276,7 @@
     {
       "product_id": "P022",
       "product_title": "Google Pixel 8 Pro",
-      "product_image": "https://example.com/images/pixel-8-pro.jpg",
+      "product_image": "https://i.ibb.co.com/156wctJ/Pixel-8-Pro-Obsidian-7046.jpg",
       "category": "Phones",
       "price": 899.99,
       "description": "Google's latest flagship with Tensor G3 chip and advanced AI features.",
@@ -289,7 +289,7 @@
     {
       "product_id": "P023",
       "product_title": "OnePlus 11",
-      "product_image": "https://example.com/images/oneplus-11.jpg",
+      "product_image": "https://i.ibb.co.com/NnFCT2h4/One-Plus-11-Colorways.jpg",
       "category": "Phones",
       "price": 749.99,
       "description": "High-speed performance with Snapdragon 8 Gen 2 and 120Hz display.",
@@ -302,7 +302,7 @@
     {
       "product_id": "P024",
       "product_title": "Xiaomi 13 Pro",
-      "product_image": "https://example.com/images/xiaomi-13-pro.jpg",
+      "product_image": "https://i.ibb.co.com/2YhbRPF0/xiaomi-13-pro.jpg",
       "category": "Phones",
       "price": 699.99,
       "description": "Affordable flagship with Snapdragon 8+ Gen 1 and 108MP triple camera.",
@@ -315,7 +315,7 @@
     {
       "product_id": "P025",
       "product_title": "Sony Xperia 1 V",
-      "product_image": "https://example.com/images/xperia-1-v.jpg",
+      "product_image": "https://i.ibb.co.com/DHp4d2CL/sony-xperia-1-V-silver.webp",
       "category": "Phones",
       "price": 999.99,
       "description": "Flagship phone with 4K HDR OLED display and triple camera system.",
@@ -328,7 +328,7 @@
     {
       "product_id": "P026",
       "product_title": "Motorola Edge 40",
-      "product_image": "https://example.com/images/motorola-edge-40.jpg",
+      "product_image": "https://i.ibb.co.com/chnsBr96/Motorola-Edge-40.jpg",
       "category": "Phones",
       "price": 599.99,
       "description": "Mid-range phone with OLED display and 50MP camera.",
@@ -341,7 +341,7 @@
     {
       "product_id": "P027",
       "product_title": "Nokia G60 5G",
-      "product_image": "https://example.com/images/nokia-g60.jpg",
+      "product_image": "https://i.ibb.co.com/Z6Z7mxNw/nokiac60.jpg",
       "category": "Phones",
       "price": 299.99,
       "description": "Budget-friendly 5G phone with a durable build and long battery life.",
@@ -354,7 +354,7 @@
     {
       "product_id": "P028",
       "product_title": "iPhone 13 Mini - 128GB",
-      "product_image": "https://example.com/images/iphone-13-mini.jpg",
+      "product_image": "https://i.ibb.co.com/4ncmR7zC/i-Phone-13-Mini.webp",
       "category": "iPhone",
       "price": 699.99,
       "description": "Compact iPhone 13 Mini with A15 Bionic chip and dual camera.",
@@ -367,7 +367,7 @@
     {
       "product_id": "P029",
       "product_title": "iPhone 12 Pro Max - 256GB",
-      "product_image": "https://example.com/images/iphone-12-pro-max.jpg",
+      "product_image": "https://i.ibb.co.com/GGLhBWj/iphone-12promax.jpg",
       "category": "iPhone",
       "price": 1099.99,
       "description": "Powerful iPhone with A14 Bionic chip and LiDAR scanner.",
@@ -380,7 +380,7 @@
     {
       "product_id": "P030",
       "product_title": "iPhone SE (3rd Gen) - 64GB",
-      "product_image": "https://example.com/images/iphone-se.jpg",
+      "product_image": "https://i.ibb.co.com/Q3GWJx0H/i-Phone-SE-3rd-Gen-64-GB.webp",
       "category": "iPhone",
       "price": 429.99,
       "description": "Affordable iPhone SE with A15 Bionic chip and Touch ID.",
@@ -393,7 +393,7 @@
     {
       "product_id": "P031",
       "product_title": "Oppo Find X5 Pro",
-      "product_image": "https://example.com/images/oppo-find-x5.jpg",
+      "product_image": "https://i.ibb.co.com/C5yV1068/OPPO-Find-X5-Pro.jpg",
       "category": "Phones",
       "price": 849.99,
       "description": "Premium phone with Hasselblad camera and Snapdragon 8 Gen 1.",
