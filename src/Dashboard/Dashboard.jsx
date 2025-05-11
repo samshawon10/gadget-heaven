@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { AiOutlineClose } from 'react-icons/ai';
 import { useLocation, useNavigate } from 'react-router-dom';
-import groupImg from '../assets/group.png';
+
 
 const Dashboard = () => {
 
@@ -155,7 +155,7 @@ const Dashboard = () => {
           <div className="bg-white shadow-xl rounded-2xl p-6 w-[90%] max-w-sm text-center pointer-events-auto">
             <div className="flex justify-center mb-4">
               <div >
-                <img src={groupImg} alt="" className="w-auto h-auto" />
+                <img src="/public/Group.png" alt="" className="w-auto h-auto" />
               </div>
             </div>
             <h2 className="text-lg font-bold mb-1">Payment Successfully</h2>
