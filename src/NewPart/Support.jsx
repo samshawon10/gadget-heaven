@@ -106,7 +106,16 @@ const Support = () => {
         <div className="mb-4 text-gray-700 text-lg">
           Gadget Heaven, Jamuna Future Park, KA-244, Kuril, Progoti Shoroni, Dhaka
         </div>
-        
+     <iframe
+            title="Gadget Heaven Location"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.1420865011637!2d90.42166437602432!3d23.81354598634784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c62fb95f16c1%3A0xb333248370356dee!2sJamuna%20Future%20Park!5e0!3m2!1sen!2sbd!4v1746948428066!5m2!1sen!2sbd"
+            width="100%"
+            height="450"
+            className="border-0 w-full h-full"
+            allowFullScreen=""
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          ></iframe>
       </section>
     </div>
   );

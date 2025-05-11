@@ -17,6 +17,7 @@ import Dashboard from './Dashboard/Dashboard';
 import Statistics from './Statistics/Statistics';
 import { Toaster } from 'react-hot-toast';
 import Support from './NewPart/Support';
+import Product from './Product/Product';
 
 
 
@@ -34,11 +35,7 @@ const router = createBrowserRouter([
       {
         path: "/",
         element:<Home></Home>,
-      },
-     {
-      path: "/home",
-      element:<Home></Home>,
-      },
+      },   
         {
           path: "products/:product_id",
           element: <ProductCard></ProductCard>,
@@ -48,16 +45,19 @@ const router = createBrowserRouter([
       {
         path: "/dashboard",
         element: <Dashboard></Dashboard>,
+        loader: () => fetch(`../data/products.json`),
 
       },
       {
         path: "/dashboard/cart",
         element: <Dashboard></Dashboard>,
+        loader: () => fetch(`../data/products.json`),
 
       },
       {
         path: "/dashboard/wishlist",
         element: <Dashboard></Dashboard>,
+        loader: () => fetch(`../data/products.json`),
 
       },
       {
@@ -68,16 +68,17 @@ const router = createBrowserRouter([
       {
         path: "/support",
         element: <Support></Support>,
-
       },
-
-
           {
             path: "/product/:productId",
             element: <ProductDetails></ProductDetails>,
             loader: () => fetch(`../data/products.json`),
            
           },
+          {
+            path: "/product",
+            element: <Product></Product>
+          }
 
     ]},
 ]);
