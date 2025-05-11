@@ -11,7 +11,7 @@ const Footer = () => {
 
         <hr className="my-8 border-gray-300" />
         
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-white">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-center text-sm text-white">
           <div>
             <h3 className="font-semibold text-white mb-2">Services</h3>
             <ul className="space-y-1">

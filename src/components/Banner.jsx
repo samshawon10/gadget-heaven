@@ -25,7 +25,7 @@ const Banner = ({ data }) => {
     </button>
   </div>
       {image && (
-        <div className="absolute inset-x-0 -bottom-60 flex justify-center z-20">
+        <div className="absolute inset-x-0 -bottom-50  md:-bottom-60 flex justify-center z-20">
           <div className="p-3 rounded-[32px] bg-white/50 backdrop-blur-md max-w-xl w-[90%] md:w-auto">
             <img
               src={image}
